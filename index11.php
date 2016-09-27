@@ -10,5 +10,13 @@ GIT
 GIT1
 123
 456
+<?php
+function git2()
+{
+	echo "GIT2";	
+}
+git2();
+?>
+
 </body>
 </html>
