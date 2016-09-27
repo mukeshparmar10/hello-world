@@ -11,11 +11,20 @@ GIT1
 123
 456
 <?php
+
+function git1()
+{
+	echo "GIT1";	
+}
+git1();
+
+
 function git2()
 {
 	echo "GIT2";	
 }
 git2();
+
 ?>
 
 </body>
